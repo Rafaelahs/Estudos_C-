@@ -1,0 +1,13 @@
+D:\c#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.1\UcursoCsharp.exe
+D:\c#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.1\UcursoCsharp.deps.json
+D:\c#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.1\UcursoCsharp.runtimeconfig.json
+D:\c#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.1\UcursoCsharp.runtimeconfig.dev.json
+D:\c#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.1\UcursoCsharp.dll
+D:\c#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.1\UcursoCsharp.pdb
+D:\c#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.1\UcursoCsharp.csproj.AssemblyReference.cache
+D:\c#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.1\UcursoCsharp.AssemblyInfoInputs.cache
+D:\c#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.1\UcursoCsharp.AssemblyInfo.cs
+D:\c#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.1\UcursoCsharp.csproj.CoreCompileInputs.cache
+D:\c#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.1\UcursoCsharp.dll
+D:\c#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.1\UcursoCsharp.pdb
+D:\c#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.1\UcursoCsharp.genruntimeconfig.cache
